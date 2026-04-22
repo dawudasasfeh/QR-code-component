@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/dawudasasfeh/QR-code-component)
-- Live Site URL: [QR code component](https://qr-code-component-sable-one.vercel.app/)
+- Live Site URL: [QR code component](https://dawudasasfeh.github.io/QR-code-component/)
 
 ## My process
 
@@ -60,5 +60,5 @@ I used GitHub Copilot to help me plan my implementation and follow better practi
 
 ## Author
 
-- Website - [Dawud Alasasfeh](#)
+- Website - [Dawud Alasasfeh](https://dawudasasfeh.github.io/)
 - Frontend Mentor - [@dawudasasfeh](https://www.frontendmentor.io/profile/dawudasasfeh)
